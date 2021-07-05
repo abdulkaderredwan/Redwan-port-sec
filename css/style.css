@@ -42,3 +42,31 @@ h2{
 .p-sec{
     padding-right: 150px;
 }
+.final-sec{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.skill-items{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px gray;
+}
+#first-skill{
+    border-left: 10px solid;
+    border-image: linear-gradient(#FF9F79, #FF6549);
+    border-image-slice: 1;
+}
+#sec-skill{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    color: dimgray;
+    text-align: center;
+}
