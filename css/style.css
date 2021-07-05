@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 .org{
     color: orange;
 }
@@ -21,7 +24,7 @@ h1{
     padding-left: 7%;
 }
 .half-width img{
-    width: 80%;
+    width: 90%;
 }
 .link-button{
     color: white;
@@ -30,4 +33,12 @@ h1{
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.second-sec{
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.p-sec{
+    padding-right: 150px;
 }
